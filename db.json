@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Jacksen",
+      "alamat": "Medan",
+      "umur": 20,
+      "no_hp": "+6291812471"
+    },
+    {
+      "id": 2,
+      "nama": "Muhammady Rifki",
+      "alamat": "Surabaya",
+      "umur": 24,
+      "no_hp": "+12318715654"
+    },
+    {
+      "id": 3,
+      "nama": "Herra Sudiro",
+      "alamat": "Jakarta",
+      "umur": 21,
+      "no_hp": "+0899871847"
+    },
+    {
+      "id": 4,
+      "nama": "Torry Sucipto",
+      "alamat": "Bandung",
+      "umur": 30,
+      "no_hp": "+2131857566"
+    },
+    {
+      "id": 5,
+      "nama": "Gary Indoko",
+      "alamat": "Bekasi",
+      "umur": 25,
+      "no_hp": "+1257584986"
+    },
+    {
+      "id": 6,
+      "nama": "Joko Hendra",
+      "alamat": "Yogyakarta",
+      "umur": 27,
+      "no_hp": "+872154156"
+    },
+    {
+      "id": 7,
+      "nama": "Joko Hendra",
+      "alamat": "Yogyakarta",
+      "umur": 27,
+      "no_hp": "+872154156"
+    },
+    {
+      "id": 8,
+      "nama": "Olly Marina",
+      "alamat": "Kalimantan",
+      "umur": 22,
+      "no_hp": "+8126718586"
+    },
+    {
+      "id": 9,
+      "nama": "Candy Novia",
+      "alamat": "Bali",
+      "umur": 23,
+      "no_hp": "+8721718342"
+    },
+    {
+      "id": 10,
+      "nama": "Kevin Yu",
+      "alamat": "Jakarta",
+      "umur": 29,
+      "no_hp": "+1251687845"
+    },
+    {
+      "id": 11,
+      "nama": "Hendra Nasution",
+      "alamat": "Bekasi",
+      "umur": 28,
+      "no_hp": "+141765366"
+    }
+  ]
+}
